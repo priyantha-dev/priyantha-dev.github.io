@@ -1,0 +1,19 @@
+PRIYANTHA RECRUITMENT PORTFOLIO — UPDATE 2026-07-19
+
+1. Repositioned the profile around end-to-end international recruitment.
+2. Added an eight-stage recruitment workflow from workforce need to post-placement follow-up.
+3. Expanded professional skills to include:
+   - international sourcing and job matching
+   - screening, documentation and mobility support
+   - candidate experience and multilingual communication
+   - AI-assisted job posts and recruitment videos
+   - digital recruitment campaigns
+   - recruitment data, analytics and cybersecurity awareness
+   - leadership and stakeholder collaboration
+4. Updated the credential total from 17 to 19.
+5. Added official verification records for:
+   - Analyze Data to Answer Questions — Google/Coursera — 2KITAMJOEK3K
+   - Foundations of Cybersecurity — Google/Coursera — BDTORMPOH9GK
+6. Added LinkedIn credential IDs and certificate codes for HubSpot credentials where both are available.
+7. Updated documented learning to 165+ hours.
+8. Preserved mobile-first responsiveness, theme switching, accessibility and credential filters.

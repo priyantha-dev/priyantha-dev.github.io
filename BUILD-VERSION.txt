@@ -1,0 +1,4 @@
+Priyantha Portfolio — GitHub Pages verified static release v22
+Built: 2026-07-19
+Languages: EN / PL / RU
+Service worker: disabled and legacy caches removed

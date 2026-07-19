@@ -1,0 +1,14 @@
+PRIYANTHA RECRUITMENT PORTFOLIO — TRILINGUAL EU UPDATE 2026-07-19
+
+1. Added a professional language selector with English, Polish and Russian versions.
+2. Created separate SEO-friendly pages: index.html, pl.html and ru.html.
+3. Translated the main portfolio content, navigation, contact area, privacy controls and recruitment sections.
+4. Localised credential labels and learning areas while preserving official certificate titles.
+5. Removed certificate issue, completion, validity and expiry dates from portfolio cards.
+6. Added official World Bank Group and The Open University logos to relevant credential cards.
+7. Added English and Polish CV files.
+8. Added English and Polish cover-letter files.
+9. Reworked the professional documents section into four clearly labelled EN/PL download cards.
+10. Added hreflang metadata, multilingual canonical URLs and sitemap entries.
+11. Updated the service worker to cache all language pages, logos and current professional documents.
+12. Preserved the recruitment-first, mobile-friendly, EU-style design and all 19 credentials.

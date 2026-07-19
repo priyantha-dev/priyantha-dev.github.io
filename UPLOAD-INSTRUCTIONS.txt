@@ -1,0 +1,14 @@
+GITHUB PAGES UPLOAD — IMPORTANT
+
+This ZIP is upload-ready: index.html is at the ZIP root.
+
+1. Extract the ZIP on your computer.
+2. Open the extracted folder.
+3. Upload ALL ITEMS INSIDE the folder to the ROOT of the repository named priyantha-dev.github.io.
+4. At repository root you must see index.html, pl.html, ru.html, assets, documents and .nojekyll.
+5. GitHub > Settings > Pages > Deploy from a branch > main > /(root).
+6. Wait 1–3 minutes, then open https://priyantha-dev.github.io/ in a private/incognito window.
+
+Do not upload one extra parent folder around index.html.
+Do not rename assets or documents.
+This release disables the old service worker and removes legacy caches automatically.

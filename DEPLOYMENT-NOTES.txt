@@ -1,0 +1,28 @@
+PRIYANTHA RECRUITMENT PORTFOLIO — TRILINGUAL RELEASE
+
+Languages
+- English: index.html
+- Polish: pl.html
+- Russian: ru.html
+- Language selector is available in the header on desktop and mobile.
+
+Professional documents
+- English CV and cover letter
+- Polish CV and cover letter
+
+Credential presentation
+- Certificate issue/expiry dates are intentionally hidden on portfolio cards.
+- World Bank Group and The Open University credentials display issuer logos.
+- Official credential titles remain in their original English wording for consistency with source certificates.
+
+Deployment
+1. Upload the contents of the folder priyantha-dev.github.io-main to the GitHub repository root.
+2. Keep all file and folder names unchanged.
+3. In GitHub Pages settings, publish from the main branch/root folder.
+4. After upload, hard-refresh the browser or clear the previous service-worker cache if an older version remains visible.
+
+NORMAL VIEW FIX (2026-07-19)
+- Legal/accessibility pages now use a wider, larger, responsive layout.
+- CSS/JS URLs include a cache-busting version.
+- Service worker cache upgraded to v21 and CSS/JS use network-first loading.
+- After uploading, open the site and press Ctrl+F5 once. If the browser zoom was changed, press Ctrl+0 to return to 100%.
